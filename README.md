@@ -1,2 +1,3 @@
-# PortfolioWeb
-Portifolio pessoal.
+# Portfolio Web
+
+Portifolio pessoal feito em HTML & CSS.
