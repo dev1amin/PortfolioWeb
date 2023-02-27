@@ -1,3 +1,3 @@
 # Portfolio Web
 
-Portifolio pessoal feito em HTML & CSS.
+Portfolio pessoal feito em HTML & CSS.
