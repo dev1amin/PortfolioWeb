@@ -5,6 +5,56 @@
 body{
     background-color: #1E1E1E;
 }
+.carousel-item {
+    height: 400px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.carousel-caption h3 {
+    color: white;
+}
+
+.carousel-caption p {
+    color: white;
+}
+
+#colegas {
+    margin-top: 50px; 
+}
+
+#colegas h2 {
+    text-align: center; 
+}
+
+.colega {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.colega img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.colega h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.colega p {
+    margin: 0;
+    font-size: 14px;
+    text-align: center;
+}
 /* botoes de cima */
 .square{
     width: 92px;
